@@ -1,0 +1,9 @@
+@article{REPO152,
+    author = "Lu, Jianglin and Zhou, Jie and Chen, Yudong and Pedrycz, Witold and Hung, Kwok-Wai",
+    journal = "IEEE Transactions on Cybernetics",
+    number = "1",
+    pages = "533-545",
+    title = "{Asymmetric Transfer Hashing With Adaptive Bipartite Graph Learning}",
+    volume = "54",
+    year = "2024"
+}
